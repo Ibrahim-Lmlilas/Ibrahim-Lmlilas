@@ -195,6 +195,6 @@
 
 
 <!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
