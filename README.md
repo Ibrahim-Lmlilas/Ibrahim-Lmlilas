@@ -69,11 +69,10 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+  Hello I’am Ibrahim Lmlilas.</br>
+  Fullstack Developer.</br>
+  Based In Morocco.</br>
+ <p>As a passionate and self-taught full stack developer, I’m always eager to explore the latest trends and best practices in web development. My solid skill set has been honed through personal projects and online courses, allowing me to deliver versatile and valuable contributions to any development team.</p></h4> <div align="left"> 
 
 
   
