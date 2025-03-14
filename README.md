@@ -42,7 +42,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/transparent_gitgif.gif">
 
 
 <!-- about me -->
