@@ -129,7 +129,6 @@
 
 
 
-<br></br>
 
 
 <!-- top repo and teck stack-->
@@ -153,7 +152,6 @@
     <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
 </p>
 
-
 <!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>-->
@@ -161,6 +159,8 @@
 
 
 <!-- ending-->
-<a href="https://brahim-seven.vercel.app/"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01C363&height=120&section=footer"/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+<!--<a href="https://brahim-seven.vercel.app/"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>-->
