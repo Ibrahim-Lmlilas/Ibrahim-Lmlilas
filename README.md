@@ -22,7 +22,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Fallout GIF" style="width:auto; height:100"/>
+  <img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Fallout GIF" style="width:auto; height:50"/>
 </a>
 
 
