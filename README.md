@@ -19,7 +19,7 @@
 -->
 
 
-
+<div style="flex">
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
   <img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/hakari-hakari-dance.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
@@ -34,8 +34,8 @@
 <!-- Greeting -->
 </h1>
 <h1 align="center">I'm Ibrahim Lmlilas</h1>
-
-
+</h1>
+</div>
 
 
 
