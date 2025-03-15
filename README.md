@@ -29,7 +29,7 @@
 
 <!--<h1 align="left">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01C363&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01C363&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ibrahim+Lmlilas;I%27m+19+years+old;I+from+Morocco;I+am+a+Full+Stack+Developer;Laureate+at+Youcode.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
