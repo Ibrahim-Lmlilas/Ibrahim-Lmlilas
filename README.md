@@ -55,8 +55,7 @@
 <div align="left">-->
 <h4> 
     <br></br>
-  <br></br>
- <p>As a passionate and self-taught full stack developer, I’m always eager to explore the latest trends and best practices in web development. My solid skill set has been honed through personal projects and online courses, allowing me to deliver versatile and valuable contributions to any development team.</p></h4>  <br></br>
+ <p>As a passionate and self-taught full stack developer, I’m always eager to explore the latest trends and best practices in web development. My solid skill set has been honed through personal projects and online courses, allowing me to deliver versatile and valuable contributions to any development team.</p></h4>  
  <div align="left"> 
 
 
