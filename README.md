@@ -165,7 +165,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01C363&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01C363&height=120&section=footer"/>
 
 <!--<a href="https://brahim-seven.vercel.app/"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
