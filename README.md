@@ -146,11 +146,11 @@
 
 <!-- support -->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Ibrahim-Lmlilas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
  <!-- <a href="https://buymeacoffee.com/joshuathadi">
     <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
-</p>
+<!--</p>-->
 
 <!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
@@ -159,6 +159,12 @@
 
 
 <!-- ending-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01C363&height=120&section=footer"/>
 
 <!--<a href="https://brahim-seven.vercel.app/"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
