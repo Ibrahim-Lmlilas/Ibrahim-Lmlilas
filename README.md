@@ -25,6 +25,8 @@
   />
 </p>
 
+<hr>
+
 <h2 align="center">Technical Skills</h2>
 
 <p align="center">
