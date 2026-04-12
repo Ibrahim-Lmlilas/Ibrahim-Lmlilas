@@ -17,30 +17,18 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight&border_radius=10"/>
 </p>
 
-<h2>⚡ TECHNICAL SKILLS</h2>
+<h2 align="center">⚡ TECHNICAL SKILLS</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,react,tailwind,html,css,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,reactnative,tailwind,html,css,bootstrap" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,go" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,go,wordpress,figma,vscode" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress,jest" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,wordpress" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,docker,githubactions,git,github,cypress,jest" />
 </p>
 
 <picture>
