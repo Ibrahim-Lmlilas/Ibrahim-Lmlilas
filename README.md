@@ -16,12 +16,10 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
-    height="180"
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&theme=tokyonight"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
   />
 </p>
 
