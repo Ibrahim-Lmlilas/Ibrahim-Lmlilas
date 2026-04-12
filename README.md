@@ -20,7 +20,7 @@
 <h2 align="center">⚡ TECHNICAL SKILLS</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,reactnative,tailwind,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,wordpress,tailwind,html,css,bootstrap" />
 </p>
 
 <p align="center">
