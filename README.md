@@ -17,7 +17,31 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight&border_radius=10"/>
 </p>
 
+<h2>⚡ TECHNICAL SKILLS</h2>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,react,tailwind,html,css,bootstrap" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,go" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,jest" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,wordpress" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
