@@ -19,7 +19,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
     height="200" width="550"
   />
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
     height="200" width="400" 
