@@ -14,14 +14,10 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
-    width="250"
-  />
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
-    width="250"
+    height="180" width="500"
   />
 </p>
 
