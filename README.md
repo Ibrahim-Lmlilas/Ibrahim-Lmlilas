@@ -20,7 +20,7 @@
     height="200" width="600"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/cards/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
     width="250"  height="200"
   />
 </p>
