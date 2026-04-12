@@ -31,10 +31,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,docker,githubactions,git,github,cypress,jest" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/output/snake.svg" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/output/github-contribution-grid-snake.svg" />
+</p>
