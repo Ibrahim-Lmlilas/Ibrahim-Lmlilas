@@ -17,7 +17,7 @@
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
-    height="180" width="500"
+    height="200" width="600"
   />
 </p>
 
