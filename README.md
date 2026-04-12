@@ -21,7 +21,7 @@
   />
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
-    width="250"  height="200"
+    height="200" width="300" 
   />
 </p>
 
