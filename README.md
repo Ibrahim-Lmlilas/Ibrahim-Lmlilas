@@ -14,7 +14,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+<p align="center" style="display:flex; gap:10px; flex-wrap:wrap;">
 
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight&border_radius=10"
