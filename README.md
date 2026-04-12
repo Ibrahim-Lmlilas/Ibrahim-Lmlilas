@@ -17,17 +17,14 @@
 
 
     
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="400" src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/transparent_gitgif.gif">
 
 
-<!-- about me -->
  <h3 align="left">💫 About Me</h3>
 
 
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
+
 <h4> 
     <br></br>
  <p>As a passionate and self-taught full stack developer, I’m always eager to explore the latest trends and best practices in web development. My solid skill set has been honed through personal projects and online courses, allowing me to deliver versatile and valuable contributions to any development team.</p></h4>  
@@ -41,82 +38,15 @@
     <a href="https://brahim-seven.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 
-
-  
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
 </div></h4>
 
 </div>
 <br/>
 
-<!--Experence and experencing-->
-
-
-
-
-<!-- git stat-->
-
-<!-- <h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> -->
-
-
-
-
-
-
-
-<!-- top repo and teck stack-->
-
-
-
-
-<!--<h3>⭐ Top Contributed Repo!</h3>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
-
-
-
-
-<!-- support -->
-
-<!--<p align="center">
-  <a href="https://github.com/Ibrahim-Lmlilas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
-<!--</p>-->
-
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
-
-
-
-<!-- ending-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01C363&height=120&section=footer"/>
 
-<!--<a href="https://brahim-seven.vercel.app/"><img src="https://github.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>-->
