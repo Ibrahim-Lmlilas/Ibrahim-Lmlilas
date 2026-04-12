@@ -19,6 +19,10 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
     height="200" width="600"
   />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/cards/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
+    width="250"  height="200"
+  />
 </p>
 
 <h2 align="center">Technical Skills</h2>
