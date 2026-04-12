@@ -14,19 +14,25 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center" style="display:flex; gap:10px; flex-wrap:wrap;">
+<table align="center" width="100%">
+  <tr>
 
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight&border_radius=10"
-    width="35%"
-  />
+    <td width="35%" align="center">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight&border_radius=10"
+        width="100%"
+      />
+    </td>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&theme=tokyonight&border_radius=10"
-    width="50%"
-  />
+    <td width="65%" align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&theme=tokyonight"
+        width="100%"
+      />
+    </td>
 
-</p>
+  </tr>
+</table>
 
 <h2 align="center">Technical Skills</h2>
 
