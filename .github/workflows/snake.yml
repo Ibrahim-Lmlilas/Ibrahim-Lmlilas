@@ -5,13 +5,15 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: generate snake
         uses: Platane/snk/svg-only@v3
@@ -19,7 +21,7 @@ jobs:
           github_user_name: Ibrahim-Lmlilas
           outputs: dist/snake.svg
 
-      - name: deploy to output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
