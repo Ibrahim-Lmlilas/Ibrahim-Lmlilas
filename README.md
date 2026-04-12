@@ -43,6 +43,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,docker,githubactions,git,github,cypress,jest" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ibrahim-Lmlilas/Ibrahim-Lmlilas/output/github-contribution-grid-snake.svg" />
-</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:4B0082&height=120&section=footer" />
