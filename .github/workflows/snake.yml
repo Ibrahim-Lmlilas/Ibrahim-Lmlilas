@@ -10,12 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ibrahim-Lmlilas
           outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
