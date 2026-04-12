@@ -22,8 +22,8 @@
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&theme=tokyonight"
-    width="60%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&theme=tokyonight&border_radius=10"
+    width="50%"
   />
 
 </p>
