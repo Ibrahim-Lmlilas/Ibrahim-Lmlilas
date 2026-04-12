@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight&border_radius=10"/>
 </p>
 
-<h2 align="center">⚡ TECHNICAL SKILLS</h2>
+<h2 align="center">Technical Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,wordpress,tailwind,html,css,bootstrap" />
