@@ -17,12 +17,13 @@
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
-    height="180" width="420"
+    height="180" width="700"
   />
-  <img 
+ <!-- <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
     height="180" width="300" 
   />
+   -->
 </p>
 
 <br>
