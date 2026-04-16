@@ -23,6 +23,7 @@
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibrahim-Lmlilas&show_icons=true&theme=tokyonight"
     height="180" width="full" 
+    align="center" 
   />
    
 </p>
