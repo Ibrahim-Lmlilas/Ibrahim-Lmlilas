@@ -33,6 +33,7 @@
 
 <h2 align="center">Technical Skills</h2>
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,wordpress,tailwind,html,css,bootstrap" />
 </p>
